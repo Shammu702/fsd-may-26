@@ -4,7 +4,6 @@
 4. Indepth about metatags
 5. Forms few more attributes (study during JS forms)
 7. not or or in media queries
-8. gitignore 
 9. readme.md
 10. Deep discussion about == and ===
 11. complex forms of arrow functions
